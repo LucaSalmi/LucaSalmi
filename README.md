@@ -8,4 +8,19 @@ Here are some ideas to get you started:
 
 My Projects -->
 
+Hyper Pong
 
+A breakout type game created entirely in kotlin using Android Studio.
+All created from scratch (Physics Engine, assets, and UI)
+
+Kotlin Calculator
+
+A calculator capable of adressing multiple operations in the same row.
+
+BomberMan
+
+A 2d game for IOS created using SwiftUI, SpriteKit with an internal database for data management.
+
+Notepad 2.0
+
+A notepad app in Kotlin, using RecyclerView and an internal database for data management.
