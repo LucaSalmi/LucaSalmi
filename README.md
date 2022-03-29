@@ -1,6 +1,5 @@
 
-
-Here are some ideas to get you started:
+Hi, I'm Luca Salmi
 
 - 🔭 I’m currently studying at KYH in Stockholm
 - 🌱 I’m currently learning App Development
