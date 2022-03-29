@@ -7,19 +7,19 @@ Hi, I'm Luca Salmi
 
 My Projects -->
 
-Hyper Pong
+Hyper Pong  LINK: https://github.com/LucaSalmi/HyperPongGruppB
 
 A breakout type game created entirely in kotlin using Android Studio.
 All created from scratch (Physics Engine, assets, and UI)
 
-Kotlin Calculator
+Kotlin Calculator  LINK: https://github.com/LucaSalmi/kotlin_calculator
 
 A calculator capable of adressing multiple operations in the same row.
 
-BomberMan
+BomberMan LINK: https://github.com/LucaSalmi/BomberMan
 
 A 2d game for IOS created using SwiftUI, SpriteKit with an internal database for data management.
 
-Notepad 2.0
+Notepad 2.0  LINK: https://github.com/LucaSalmi/notepad_2.0
 
 A notepad app in Kotlin, using RecyclerView and an internal database for data management.
