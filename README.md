@@ -16,9 +16,13 @@ Kotlin Calculator  LINK: https://github.com/LucaSalmi/kotlin_calculator
 
 A calculator capable of adressing multiple operations in the same row.
 
-BomberMan LINK: https://github.com/LucaSalmi/BomberMan
+BomberJack LINK: https://github.com/LucaSalmi/BomberMan
 
-A 2d game for IOS created using SwiftUI, SpriteKit with an internal database for data management.
+A 2d game for IOS created using SwiftUI and SpriteKit with an internal database for data management.
+
+MadDoctor TD LINK: https://github.com/LucaSalmi/MadDoctorTD
+
+A tower defense style game, made with Swift, SwiftUI and SpriteKit.
 
 Notepad 2.0  LINK: https://github.com/LucaSalmi/notepad_2.0
 
