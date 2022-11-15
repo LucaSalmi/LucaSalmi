@@ -5,6 +5,9 @@ Hi, I'm Luca Salmi
 - 🌱 I’m currently learning App Development
 - 📫 How to reach me: e-mail: luca.salmi90@gmail.com, LinkedIn: www.linkedin.com/in/luca-salmi-0a46ab21b
 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucaSalmi)](https://github.com/anuraghazra/github-readme-stats)
+
 My Projects -->
 
 Hyper Pong  LINK: https://github.com/LucaSalmi/HyperPongGruppB
