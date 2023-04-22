@@ -1,8 +1,10 @@
 
 Hi, I'm Luca Salmi
 
-- 🔭 I’m currently studying at KYH in Stockholm
-- 🌱 I’m currently learning App Development
+- 🔭 I’m currently looking for work
+- :running_man: Flutter
+- :running_man: Android Development
+- :running_man: iOS Development
 - 📫 How to reach me: e-mail: luca.salmi90@gmail.com, LinkedIn: www.linkedin.com/in/luca-salmi-0a46ab21b
 
 
