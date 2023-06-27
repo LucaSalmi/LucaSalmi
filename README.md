@@ -2,7 +2,7 @@
 Hi, I'm Luca Salmi
 
 - 🔭 I’m currently looking for work
-- :running_man: Flutter
+- :running_man: Flutter Development
 - :running_man: Android Development
 - :running_man: iOS Development
 - 📫 How to reach me: e-mail: luca.salmi90@gmail.com, LinkedIn: www.linkedin.com/in/luca-salmi-0a46ab21b
@@ -11,6 +11,11 @@ Hi, I'm Luca Salmi
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucaSalmi&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 My Projects -->
+
+Your Manager  LINK: https://github.com/LucaSalmi/YourManager
+
+A contact manager app for sellers and professionals that want to keep all informations about current and potential customer in one place while managing their status.
+Made for iOS with Swift, SwiftUI, Combine and Firebase for authentication and data storage.
 
 Hyper Pong  LINK: https://github.com/LucaSalmi/HyperPongGruppB
 
