@@ -12,7 +12,7 @@ Hi, I'm Luca Salmi
 
 My Projects -->
 
-Your Manager  LINK: https://github.com/LucaSalmi/YourManager
+Your Manager WIP  LINK: https://github.com/LucaSalmi/YourManager
 
 A contact manager app for sellers and professionals that want to keep all informations about current and potential customer in one place while managing their status.
 Made for iOS with Swift, SwiftUI, Combine and Firebase for authentication and data storage.
