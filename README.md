@@ -1,7 +1,6 @@
 
 Hi, I'm Luca Salmi
 
-- 🔭 I’m currently looking for work
 - :running_man: Flutter Development
 - :running_man: Android Development
 - :running_man: iOS Development
